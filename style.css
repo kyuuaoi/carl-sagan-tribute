@@ -27,20 +27,25 @@ body {
 
 #quote {
     font-size: 12px;
-    text-align: center;
 }
 
 #list {
     padding-top: 10px;
     padding-bottom: 10px;
-    text-align: justify;
-    padding-right: 300px;
-    padding-left: 300px;
 }
+
+#title {
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+}
+
+#title-prg {
+        font-size: 20px;
+}
+
 
 .responsive {
     max-width: 100%;
     height: auto;
     width: auto;
 }
-
