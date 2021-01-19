@@ -1,0 +1,46 @@
+body {
+    padding-top: 30px;
+}
+
+#full {
+    background-color: rgb(182, 182, 182);
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#image {
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#imageprofile {
+    border-radius: 10px;
+}
+
+#imagecaption {
+    padding-top: 15px;
+}
+
+#quote {
+    font-size: 12px;
+    text-align: center;
+}
+
+#list {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: justify;
+    padding-right: 300px;
+    padding-left: 300px;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
